@@ -1,6 +1,6 @@
 ## PHP Client
 
-[Roadrunner GRPC](https://github.com/roadrunner-server/grpc)
+[Roadrunner GRPC](https://github.com/roadrunner-server/roadrunner-grpc)
 
 ### Compiling proto sample:
 ```
